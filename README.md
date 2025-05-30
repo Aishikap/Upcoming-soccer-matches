@@ -27,4 +27,7 @@ A sleek and modern React web app that displays a list of upcoming soccer matches
 - [Axios]
 - [Custom API Backend]
 ---
-
+### 🔧 Setup Instructions
+ * After Cloning Install dependencies using: `npm install` (both in frontend and backend)
+ * Run the backend: `node server.js`
+ * Run the frontend: `npm start`
